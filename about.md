@@ -1,2 +1,2 @@
 # About
-2–4 paragraph intro. **FILL HERE**
+AI and Computer Vision engineer with experience in remote sensing, multimodal learning and real-time perception systems. I’ve contributed to academic publications and production-level pipelines, and I enjoy bridging research ideas into working solutions. I’m currently exploring more efficient architectures and solutions for ADAS, intelligent industriel textile machines and satellite imagery.
